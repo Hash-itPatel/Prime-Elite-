@@ -456,18 +456,14 @@ async def start(client, message):
                     )
                     return
             if STREAM_MODE == True:
-                    button = [[
-                        InlineKeyboardButton("Fᴀsᴛ Dᴏᴡɴʟᴏᴀᴅ", url=download),  # we download Link
-                        InlineKeyboardButton('Wᴀᴛᴄʜ Oɴʟɪɴᴇ', url=stream)
-                    ],[
-                        InlineKeyboardButton("Wᴀᴛᴄʜ Iɴ Wᴇʙ Aᴘᴘ", web_app=WebAppInfo(url=stream))
-                    ]]
-                else:
-                    button = [[
-                        
-                        InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                    ]]
-                msg = await client.send_cached_media(
+                button = [[
+                    InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @KingVJ01
+                ]]
+            else:
+                button = [[
+                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                ]]
+            msg = await client.send_cached_media(
                 chat_id=message.from_user.id,
                 file_id=file_id,
                 caption=f_caption,
