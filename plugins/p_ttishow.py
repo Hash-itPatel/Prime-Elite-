@@ -42,7 +42,7 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-                    InlineKeyboardButton('Hᴏᴡ Tᴏ Usᴇ Mᴇ', url="telegram.me/OGHomeLanderr")
+                    InlineKeyboardButton('Hᴏᴡ Tᴏ Usᴇ Mᴇ', url="https://t.me/eliteverify/7")
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
