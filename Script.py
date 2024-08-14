@@ -228,7 +228,12 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<a href='https://t.me/Ipapkornelite'>{file_name}</a>""" 
+    CAPTION = """{file_name}
+
+{file_size}
+
+
+<a href='https://t.me/MovieBYNam'>█══𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐆𝐫𝐨𝐮𝐩══█❚</a>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
