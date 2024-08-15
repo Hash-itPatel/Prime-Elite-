@@ -23,6 +23,41 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ G
 🔔 Cʟɪᴄᴋ ғᴏʀ ᴘʟᴀɴ ᴅᴇᴛᴀɪʟs: /plan
 
 <blockquote>Fᴏʀ ᴍᴏʀᴇ Iɴғᴏʀᴍᴀᴛɪᴏɴ ᴄᴏɴᴛᴀᴄᴛ <a href='http://t.me/OGHomeLanderr'>CLICK ME</a></blockquote></b>"""
+
+
+    PAYMENT = """🌟 ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs 🌟
+
+* At Rs.9    -  1 day
+* At Rs.25   -  15 day
+* At Rs.49   -  1 month 
+* At Rs.99   -  2 months
+* At Rs.149  -  3 months
+* At Rs.199  -  4 months
+* At Rs.239  -  5 months
+* At Rs.299  -  6 months
+
+
+* Premium Plan Benefits:
+
+*  No need verify
+*  fast download 
+*  watch online
+*  Movies (Original Prints And Theatre Prints)
+*  unlimited request for movies no limit 
+*  all Tv shows 
+*  direct files no links
+
+click to check your activ plan- /myplan
+
+* Payment methods:
+
+* UPI ID :<code>abhishek.0309rawat@okicici</code>
+
+* (Tap to Copy) [Supports All Apps Like Google pay, Paytm]
+
+* Must Take a Screenshot after Payment and Send it to @OGHomeLanderr To Activate Your Subscription
+
+* Contact:  for Any Doubts and Clarification @OGHomeLanderr
     
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
