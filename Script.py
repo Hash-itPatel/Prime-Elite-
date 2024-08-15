@@ -25,7 +25,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ G
 <blockquote>Fᴏʀ ᴍᴏʀᴇ Iɴғᴏʀᴍᴀᴛɪᴏɴ ᴄᴏɴᴛᴀᴄᴛ <a href='http://t.me/OGHomeLanderr'>CLICK ME</a></blockquote></b>"""
 
 
-    PAYMENT = """🌟 ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs 🌟
+    PAYMENT = """<b>🌟 ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs 🌟
 
 * At Rs.9    -  1 day
 * At Rs.25   -  15 day
@@ -57,7 +57,7 @@ click to check your activ plan- /myplan
 
 * Must Take a Screenshot after Payment and Send it to @OGHomeLanderr To Activate Your Subscription
 
-* Contact:  for Any Doubts and Clarification @OGHomeLanderr
+* Contact:  for Any Doubts and Clarification @OGHomeLanderr</b>"""
     
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
