@@ -561,9 +561,7 @@ async def start(client, message):
             await k.edit_text("<b>Your File/Video is successfully deleted!!!\n\nClick below button to get your deleted file 👇</b>",reply_markup=InlineKeyboardMarkup(btn))
             return
         except:
-            pass
-        return await message.reply('No such file exist.')
-    files = files_[0]
+            pass        
         return await message.reply('No such file exist.')
     files = files_[0]
     title = '  ' + ' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@'), files.file_name.split()))
