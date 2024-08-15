@@ -22,7 +22,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ G
 
 🔔 Cʟɪᴄᴋ ғᴏʀ ᴘʟᴀɴ ᴅᴇᴛᴀɪʟs: /plan
 
-<blockquote>Fᴏʀ ᴍᴏʀᴇ Iɴғᴏʀᴍᴀᴛɪᴏɴ ᴄᴏɴᴛᴀᴄᴛ <a href='http://t.me/OGHomeLanderr'>CLICK ME</a></blockquote></b>
+<blockquote>Fᴏʀ ᴍᴏʀᴇ Iɴғᴏʀᴍᴀᴛɪᴏɴ ᴄᴏɴᴛᴀᴄᴛ <a href='http://t.me/OGHomeLanderr'>CLICK ME</a></blockquote></b>"""
     
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
