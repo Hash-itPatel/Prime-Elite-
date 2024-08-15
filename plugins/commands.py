@@ -451,16 +451,9 @@ async def start(client, message):
                         InlineKeyboardButton("How To Open Link & Verify", url=VERIFY_TUTORIAL)
                     ]]
                     await message.reply_text(
-                        text=f"<b>🚫 Yᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪғɪᴇᴅ ᴛᴏᴅᴀʏ. ᴘʟᴇᴀsᴇ ᴠᴇʀɪғʏ ʏᴏᴜʀsᴇʟғ
- 
-🔑 Pʟᴇᴀsᴇ ᴠᴇʀɪғʏ ᴛᴏ ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ғᴏʀ ᴏɴᴇ ᴅᴀʏ.
-
-🌟 Iғ ʏᴏᴜ ᴅᴏɴ'ᴛ ᴡᴀɴᴛ ᴛᴏ ᴠᴇʀɪғʏ ᴅᴀɪʟʏ, ʏᴏᴜ ᴄᴀɴ sᴜʙsᴄʀɪʙᴇ ᴛᴏ ᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ ᴛᴏ ᴇɴɪᴏʏ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇs ᴡɪᴛʜᴏᴜᴛ ᴛʜᴇ ɴᴇᴇᴅ ғᴏʀ ᴅᴀɪʟʏ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ. 
-
-🔔 Cʟɪᴄᴋ ғᴏʀ ᴘʟᴀɴ ᴅᴇᴛᴀɪʟs: /plan
-
-⚠️ Fᴏʀ ᴍᴏʀᴇ Iɴғᴏʀᴍᴀᴛɪᴏɴ ᴄᴏɴᴛᴀᴄᴛ CLICK HERE</b>",
+                        text=script.FORCE_TXT,                      
                         protect_content=False,
+                        quote=True, 
                         reply_markup=InlineKeyboardMarkup(btn)
                     )
                     return
@@ -524,8 +517,9 @@ async def start(client, message):
                         InlineKeyboardButton("How To Open Link & Verify", url=VERIFY_TUTORIAL)
                     ]]
                     await message.reply_text(
-                        text="<b>You are not verified !\nKindly verify to continue !</b>",
+                        text=script.FORCE_TXT,                      
                         protect_content=False,
+                        quote=True, 
                         reply_markup=InlineKeyboardMarkup(btn)
                     )
                     return
@@ -591,8 +585,9 @@ async def start(client, message):
                 InlineKeyboardButton("How To Open Link & Verify", url=VERIFY_TUTORIAL)
             ]]
             await message.reply_text(
-                text="<b>You are not verified !\nKindly verify to continue !</b>",
+                text=script.FORCE_TXT,                      
                 protect_content=False,
+                quote=True, 
                 reply_markup=InlineKeyboardMarkup(btn)
             )
             return
